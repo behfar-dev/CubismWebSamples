@@ -13,8 +13,8 @@ temp/
 *.iml
 .DS_Store
 # Exclude some VSCode setting files.
-.vscode/*
 !/.vscode/extensions.json
 !/.vscode/launch.json
 !/.vscode/settings.json
 !/.vscode/tasks.json
+config.bat
